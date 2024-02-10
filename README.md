@@ -1,4 +1,4 @@
-# Copr
+# Copr - Terminal Clipboard Manager
 
 ## Description
 This program is a simple copy and paste utility for Linux-based systems.
